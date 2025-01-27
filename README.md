@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @katrinjogi
 - 👀 I’m interested in data science
-- 🌱 I’m recently graduated from MS in Data Science
-- 💞️ I’m looking to collaborate on data analysis
+- 🌱 I’m a recent graduate from MS in Data Science program
+- 💞️ I’m looking for a job in data science
 - 📫 katrinjogi@yahoo.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
